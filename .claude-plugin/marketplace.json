@@ -1,0 +1,29 @@
+{
+  "name": "formularios-resoluciones-judiciales-civiles",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Resoluciones judiciales civiles: autos, sentencias y actas · España (236 formularios). Modelos de los autos y sentencias que dicta el juez en el proceso civil (despacho de ejecución, medidas cautelares, competencia, homologación de acuerdos…) y de las actas, oficios, mandamientos, edictos y cédulas del tribunal. Los decretos, providencias y diligencias tienen sus propios plugins. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-resoluciones-judiciales-civiles",
+      "source": "./",
+      "description": "Resoluciones judiciales civiles: autos, sentencias y actas · España (236 formularios). Modelos de los autos y sentencias que dicta el juez en el proceso civil (despacho de ejecución, medidas cautelares, competencia, homologación de acuerdos…) y de las actas, oficios, mandamientos, edictos y cédulas del tribunal. Los decretos, providencias y diligencias tienen sus propios plugins. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "civil",
+        "resoluciones-judiciales"
+      ]
+    }
+  ]
+}

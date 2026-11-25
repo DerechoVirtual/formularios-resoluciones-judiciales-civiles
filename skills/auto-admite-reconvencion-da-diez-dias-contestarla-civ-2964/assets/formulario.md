@@ -1,0 +1,21 @@
+Auto recurrible en reposición, por el que se tiene por contestada la demanda de separación, nulidad o divorcio, y se admite a trámite la reconvención que habrá de ser contestada por el demandante en el plazo de diez días.
+
+Documento adapatado a la reforma orgánica de la LO 1/2025. AUTOEn la ciudad de [LOCALIDAD] a [COMPLETAR] ANTECEDENTES DE HECHOÚNICO.
+
+Con fecha [FECHA], fue presentado el anterior escrito de contestación a la demanda, junto con el/los documento/s que le acompaña/n, en el que se incluye el poderapoderamiento "apud acta"designación de oficio en el que figura el/la Procurador/a de los Tribunales D./Dña. [NOMBRE Y APELLIDOS], formulando, además, la correspondiente acción reconvencional frente al demandante en este procedimiento D./Dña. [NOMBRE Y APELLIDOS] FUNDAMENTOS DE DERECHOÚNICO.De conformidad con lo establecido en el artículo 770.2º de la Ley de Enjuiciamiento Civil únicamente se admitirá la reconvención en esta clase de procedimientos cuando se funde, como en este caso, en alguna de las causas que pueden dar lugar a la nulidad del matrimonio, cuando el cónyuge demandado de separación o de nulidad pretenda el divorcio, cuando, demandado de nulidad, pretenda la separación, o cuando el cónyuge demandado pretenda la adopción de medidas definitivas, que no hubieren sido solicitadas en la demanda, y sobre las que el tribunal no deba pronunciarse de oficio.
+
+Vistos los preceptos legales citados y demás de general y pertinente aplicaciónPARTE DISPOSITIVAEl anterior escrito de contestación a la demanda presentado por D./Dña. [NOMBRE Y APELLIDOS], Procurador/a de los Tribunales y de D./Dña. [NOMBRE Y APELLIDOS], únase a los autos de su razón, teniéndose por comparecido y parte a dicho/a Procurador/a en el nombre y representación que ostenta, con quien se entenderán las sucesivas diligencias en el modo y forma establecido por la ley. Se tiene por contestada la demanda de separación matrimonialnulidaddivorcio interpuesta por D./Dña. [NOMBRE Y APELLIDOS], Procurador/a de los Tribunales y de D./Dña. [NOMBRE Y APELLIDOS] y habiéndose formulado reconvención, se admite a trámite la misma, que deberá ser contestada por el actor en el plazo de diez días.
+
+Contra este auto cabe recurso de reposición ante este Tribunal dentro de los cinco días siguientes a los de su notificación.
+
+Para interponer el recurso será necesario la constitución de un depósito de 25 euros, sin cuyo requisito no será admitido a trámite. El depósito se constituirá consignando dicho importe en la Cuenta de Depósitos y Consignaciones que este Tribunal tiene abierta en el grupo [GRUPO] con el número [NÚMERO], indicando en el campo concepto del resguardo de ingreso que se trata de un "Recurso" código 00-Reposición. La consignación deberá ser acreditada al interponer el recurso (disp. adic. 15ª de la LOPJ).
+
+No están obligados a constituir el depósito para recurrir los declarados exentos en la disposición citada y quienes tengan reconocido el derecho a la asistencia jurídica gratuita.
+
+Así, por este mi auto, lo acuerda, manda y firma.
+
+Firma del Juez/Magistrado-Juez: Como corresponde a un proceso especial, ni cabe acumular a las pretensiones principales otras que no guarden relación con el vínculo conyugal o los efectos patrimoniales o extrapatrimoniales derivados de la sentencia, ni tampoco cabe formular reconvención inconexa, aunque el Juez resulte objetivamente competente y la identidad del tipo de procedimiento lo autorice (artículo 406 de la Ley de Enjuiciamiento Civil). Obsérvese que ni siquiera se autoriza que el demandado interese medidas definitivas cuando ya se hubieran solicitado por el demandante o pudieran acordarse de oficio por el Juez, --como acaece con las que se contienen en el artículo 102 del Código Civil.
+
+La reconvención habrá de proponerse en la contestación a la demanda, otorgándose un plazo de diez días al actor para que pueda contestarla, --se entiende que por escrito cual sucede en el juicio ordinario--, si a su derecho conviniere, con lo que se reduce a la mitad el plazo previsto en el artículo 407.2 de la Ley de Enjuiciamiento Civil.
+
+Téngase en cuenta, por último, que de conformidad con lo establecido en el artículo 206 de la Ley de Enjuiciamiento Civil las resoluciones que resuelvan sobre la admisión o inadmisión de la reconvención deberán adoptar la forma de auto.
